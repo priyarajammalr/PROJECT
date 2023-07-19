@@ -19,5 +19,19 @@ Intel Quartus Prime Lite(for implementing the design in the board)
 DE0-Nano – Altera Cyclone IV FPGA Board 
 MATLAB(for verifying the results of FFT)
 
+# FFT IP CORE
+
+The Quartus has an inbuilt FFT Core in IP Catalog. The FFT IP core is a high
+performance, highly-parameterizable FFT processor. The FFT IP core
+implements a complex FFT or inverse FFT (IFFT) for high-performance
+applications. The length or size of FFT is chosen as 1024, data flow is chosen as
+variable streaming that uses fixed point representation. The input data width is 12
+bits. The output width of the FFT is 23 bits. The twiddle factor occupies 18 bits.
+
+# Block Diagram
+
+![image](https://github.com/priyarajammalr/PROJECT/assets/115354310/b003f618-7cff-4648-928d-a8b253ca9560)
+
+
 
 
