@@ -15,3 +15,9 @@ FFT values.
 
 # Tools and Software Used
 
+Intel Quartus Prime Lite(for implementing the design in the board)
+DE0-Nano – Altera Cyclone IV FPGA Board 
+MATLAB(for verifying the results of FFT)
+
+
+
