@@ -20,5 +20,7 @@ The input sine wave whose Fast Fourier Transform was realized using Quartus is a
 ![image](https://github.com/priyarajammalr/PROJECT/assets/115354310/12f85f49-86b3-466b-88a7-f8f3ce7558db)
 
 Frequency Resolution(Theoretical) = Sampling rate/FFT Size = 200MHz/1024 = 195312.5Hz 
+
+
 Frequency Resolution(Practical) From the Frequency plot = 195312 Hz
 
